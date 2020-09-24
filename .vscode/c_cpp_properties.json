@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/arshia/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/arshia/catkin_ws/src/client_service/include/**",
+                "/home/arshia/catkin_ws/src/client_topic/include/**",
+                "/home/arshia/catkin_ws/src/joystick_dynamixel/include/**",
+                "/home/arshia/catkin_ws/src/learning_joy/include/**",
+                "/home/arshia/catkin_ws/src/server_service/include/**",
+                "/home/arshia/catkin_ws/src/server_topic/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
